@@ -98,13 +98,14 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 ---
 ### Documentation and essential links
 
-|                 |                                                                  |  |
-|-------------------------|-----------------------------------------------------------------------------|------|
-| **Official Docs**       | Main reference for everything XRPL                                          | [xrpl.org](https://xrpl.org) |
-| **Learn the Basics**    | Interactive platform to explore XRPL fundamentals                          | [learn.xrpl.org](https://learn.xrpl.org) |
-| **Step-by-Step Tutorials** | Guided coding activities for hands-on learning                         | [docs.xrpl-commons.org](https://docs.xrpl-commons.org) |
-| **YouTube Tutorials**   | Video guides for beginners and developers                                   | [YouTube Channel](https://www.youtube.com/channel/UCwlHiotQWku7DztcnH3zrzw) |
-| **Hackathon Ideas**     | Project suggestions to get inspired for hackathons                         | [Hackathon Ideas](https://github.com/XRPL-Commons/community-ideas/blob/main/hackathon/index.md) |
-| **Wallets & Escrows**   | Practical tutorials on creating wallets, trustlines, escrows                | [XRPL Tutorials](https://github.com/XRPL-Commons/xrpl-commons-tutorials) |
-| **EVM Setup**           | How to set up and understand EVM on XRPL                                    | [EVM Docs](https://github.com/XRPL-Commons/Jan2024_EVM_Links) |
-| **Smart Contract Usage**| Example of using a smart contract via Web3                                  | [Smart Contract Guide](https://github.com/XRPL-Commons/Jan2024_web3/blob/main/readme.md) |
+|  |  |  |
+|--|--|--|
+| **Official Docs** | Main reference for everything XRPL | [XRPL Documentation](https://xrpl.org) |
+| **Learn the Basics** | Interactive platform to explore XRPL fundamentals | [XRPL Learn Platform](https://learn.xrpl.org) |
+| **XRPL Explorer** | Explore accounts, transactions, and ledgers on XRPL | [XRPL Explorer](https://livenet.xrpl.org) |
+| **Step-by-Step Tutorials** | Guided coding activities for hands-on learning | [XRPL Commons Tutorials](https://docs.xrpl-commons.org) |
+| **YouTube Tutorials** | Video guides for beginners and developers | [XRPL Commons YouTube Channel](https://www.youtube.com/channel/UCwlHiotQWku7DztcnH3zrzw) |
+| **Hackathon Ideas** | Project suggestions to get inspired for hackathons | [XRPL Hackathon Idea List](https://github.com/XRPL-Commons/community-ideas/blob/main/hackathon/index.md) |
+| **Wallets & Escrows** | Practical tutorials on creating wallets, trustlines, escrows | [XRPL Wallet & Escrow Guide](https://github.com/XRPL-Commons/xrpl-commons-tutorials) |
+| **EVM Setup** | How to set up and understand EVM on XRPL | [XRPL EVM Setup Guide](https://github.com/XRPL-Commons/Jan2024_EVM_Links) |
+| **Smart Contract Usage** | Example of using a smart contract with XRPL | [Web3 Smart Contract Example](https://github.com/XRPL-Commons/Jan2024_web3/blob/main/readme.md) |
