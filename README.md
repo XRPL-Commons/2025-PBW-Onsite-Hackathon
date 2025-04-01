@@ -1,8 +1,13 @@
 
 
 
+<div align="center">
 
 # Paris Blockchain Week Hackathon 2025
+
+</div>
+
+![](./img/1.jpg)
 
 **Welcome to the on-site hackathon of Paris Blockchain Week 2025!**
 
@@ -26,6 +31,8 @@
 - Climate Resilience: Blockchain-powered climate data tracking, carbon credits, and decentralized energy solutions.
 - Humanitarian Aid: Transparent, crypto-native fundraising and aid distribution systems.
 
+![](./img/3.png)
+
 ---
 
 **Two onsite workshops will help guide you during this event by providing hands-on insights, practical tools, and expert support to develop your project.**
@@ -41,6 +48,9 @@ An overview of how it works, getting started, creating a wallet, and making your
 
 > Overview of how an AI agent works.
 > Ask me anything about XRPL and overall support.
+
+![](./img/2.png)
+
 
 ---
 
