@@ -1,6 +1,7 @@
 
 
 
+
 # Paris Blockchain Week Hackathon 2025
 
 **Welcome to the on-site hackathon of Paris Blockchain Week 2025!**
@@ -77,3 +78,33 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 - **Implementation** (the quality of the code and robustness of the architecture)
 - **Demo** (how clearly you present your solution to the user)
 - **Potential** (the total value transacted on-chain, the business model, and the potential reach)
+
+---
+### Mentors 
+
+- David (XRPL Commons) *Technology and business*
+- Luc (XRPL Commons) *Technology and business*
+- Odelia (XRPL Commons) *Business*
+- Thomas (XRPL Commons) *Technology*
+- Florian (XRPL Commons) *Technology*
+- Mathis (XRPL Commons) *Technology*
+- Shane (Merkle META) *Technology and business*
+- Kenneth (Mercy Corps Ventures) *Business*
+- Panos (Anodos) *Technology and business*
+- Nathan (Cypherlab / Lobster) *Technology*
+- Djason (M’Bongo) *Technology and business*
+- Matt (Semicolons) *Technology and business*
+
+---
+### Documentation and essential links
+
+|                 |                                                                  |  |
+|-------------------------|-----------------------------------------------------------------------------|------|
+| **Official Docs**       | Main reference for everything XRPL                                          | [xrpl.org](https://xrpl.org) |
+| **Learn the Basics**    | Interactive platform to explore XRPL fundamentals                          | [learn.xrpl.org](https://learn.xrpl.org) |
+| **Step-by-Step Tutorials** | Guided coding activities for hands-on learning                         | [docs.xrpl-commons.org](https://docs.xrpl-commons.org) |
+| **YouTube Tutorials**   | Video guides for beginners and developers                                   | [YouTube Channel](https://www.youtube.com/channel/UCwlHiotQWku7DztcnH3zrzw) |
+| **Hackathon Ideas**     | Project suggestions to get inspired for hackathons                         | [Hackathon Ideas](https://github.com/XRPL-Commons/community-ideas/blob/main/hackathon/index.md) |
+| **Wallets & Escrows**   | Practical tutorials on creating wallets, trustlines, escrows                | [XRPL Tutorials](https://github.com/XRPL-Commons/xrpl-commons-tutorials) |
+| **EVM Setup**           | How to set up and understand EVM on XRPL                                    | [EVM Docs](https://github.com/XRPL-Commons/Jan2024_EVM_Links) |
+| **Smart Contract Usage**| Example of using a smart contract via Web3                                  | [Smart Contract Guide](https://github.com/XRPL-Commons/Jan2024_web3/blob/main/readme.md) |
