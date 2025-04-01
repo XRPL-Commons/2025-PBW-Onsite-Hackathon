@@ -31,7 +31,11 @@
 - Climate Resilience: Blockchain-powered climate data tracking, carbon credits, and decentralized energy solutions.
 - Humanitarian Aid: Transparent, crypto-native fundraising and aid distribution systems.
 
+<div align="center">
+
 ![](./img/3.png)
+
+</div>
 
 ---
 
@@ -49,8 +53,11 @@ An overview of how it works, getting started, creating a wallet, and making your
 > Overview of how an AI agent works.
 > Ask me anything about XRPL and overall support.
 
+<div align="left">
+
 ![](./img/2.png)
 
+</div>
 
 ---
 
@@ -105,6 +112,13 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 - Djason (M’Bongo) *Technology and business*
 - Matt (Semicolons) *Technology and business*
 
+<div align="right">
+
+![](./img/4.png)
+
+</div>
+
+
 ---
 ### Documentation and essential links
 
@@ -119,3 +133,5 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 | **Wallets & Escrows** | Practical tutorials on creating wallets, trustlines, escrows | [XRPL Wallet & Escrow Guide](https://github.com/XRPL-Commons/xrpl-commons-tutorials) |
 | **EVM Setup** | How to set up and understand EVM on XRPL | [XRPL EVM Setup Guide](https://github.com/XRPL-Commons/Jan2024_EVM_Links) |
 | **Smart Contract Usage** | Example of using a smart contract with XRPL | [Web3 Smart Contract Example](https://github.com/XRPL-Commons/Jan2024_web3/blob/main/readme.md) |
+
+![](./img/5.png)
