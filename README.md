@@ -1,5 +1,6 @@
 
 
+
 # Paris Blockchain Week Hackathon 2025
 
 **Welcome to the on-site hackathon of Paris Blockchain Week 2025!**
@@ -67,3 +68,12 @@ An overview of how it works, getting started, creating a wallet, and making your
 #### **🚨 Make sure to submit everything before Sunday at 15h30 ! 🚨**
 
 ---
+
+### Judging criteria
+
+Project evaluation will be based on four main criteria, each carrying equal weight in the final score :
+
+- **Idea** (the originality of the concept)
+- **Implementation** (the quality of the code and robustness of the architecture)
+- **Demo** (how clearly you present your solution to the user)
+- **Potential** (the total value transacted on-chain, the business model, and the potential reach)
