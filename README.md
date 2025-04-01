@@ -9,7 +9,7 @@
 
 ![](./img/1.jpg)
 
-**Welcome to the on-site hackathon of Paris Blockchain Week 2025 by XRPL-Commons !**
+**Welcome to the on-site hackathon of Paris Blockchain Week 2025 by XRPL Commons !**
 
 **As part of this hackathon, you will need to choose one of the topics below and develop a project around it. Feel free to unleash your creativity and approach it in an original and meaningful way.**
 
