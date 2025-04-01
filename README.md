@@ -53,12 +53,6 @@ An overview of how it works, getting started, creating a wallet, and making your
 > Overview of how an AI agent works.
 > Ask me anything about XRPL and overall support.
 
-<div align="left">
-
-![](./img/2.png)
-
-</div>
-
 ---
 
 ### Submission requirements
@@ -84,6 +78,12 @@ An overview of how it works, getting started, creating a wallet, and making your
 -  Using a sidechain such as [Xahau](https://xahau.network/) or the [XRPL EVM Sidechain](https://docs.xrplevm.org/) is allowed, but it may cost you a few points in the final scoring.
 
 #### **🚨 Make sure to submit everything before Sunday at 15h30 ! 🚨**
+
+<div align="right">
+
+![](./img/2.png)
+
+</div>
 
 ---
 
