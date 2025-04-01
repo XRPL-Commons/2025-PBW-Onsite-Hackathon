@@ -78,13 +78,14 @@ An overview of how it works, getting started, creating a wallet, and making your
 -  Using a sidechain such as [Xahau](https://xahau.network/) or the [XRPL EVM Sidechain](https://docs.xrplevm.org/) is allowed, but it may cost you a few points in the final scoring.
 
 <div align="center">
+</br>
+
+#### **🚨 Make sure to submit everything before Sunday at 15h30 ! 🚨**
 
 ![](./img/2.png)
 
 </div>
 
-
-#### **🚨 Make sure to submit everything before Sunday at 15h30 ! 🚨**
 
 
 ---
