@@ -77,13 +77,15 @@ An overview of how it works, getting started, creating a wallet, and making your
 -   All projects must submit transactions to the L1.
 -  Using a sidechain such as [Xahau](https://xahau.network/) or the [XRPL EVM Sidechain](https://docs.xrplevm.org/) is allowed, but it may cost you a few points in the final scoring.
 
-#### **🚨 Make sure to submit everything before Sunday at 15h30 ! 🚨**
-
-<div align="right">
+<div align="left">
 
 ![](./img/2.png)
 
 </div>
+
+
+#### **🚨 Make sure to submit everything before Sunday at 15h30 ! 🚨**
+
 
 ---
 
