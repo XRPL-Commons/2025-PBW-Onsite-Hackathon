@@ -1,6 +1,8 @@
 
+
 # Paris Blockchain Week Hackathon 2025
 
+**Welcome to the on-site hackathon of Paris Blockchain Week 2025!**
 
 **As part of this hackathon, you will need to choose one of the topics below and develop a project around it. Feel free to unleash your creativity and approach it in an original and meaningful way.**
 
@@ -37,3 +39,31 @@ An overview of how it works, getting started, creating a wallet, and making your
 
 > Overview of how an AI agent works.
 > Ask me anything about XRPL and overall support.
+
+---
+
+### Submission requirements
+
+
+- A link to your repository, which must be publicly accessible.
+
+- A short text presenting the main idea of your project: what it is about, what its objective is, and addressing the following questions:
+
+> What real-world problem does your project aim to solve? Why is it important?
+
+> How can your solution scale beyond the hackathon? Does it have the potential for broader adoption?
+
+> Specify the XRPL features used. Does your project effectively leverage XRPL’s blockchain capabilities?
+
+> Estimate the potential volume of real-world transactions your solution could generate on the XRPL.
+
+- A link to a video or screenshots showcasing your solution.
+
+#### XRPL Network Requirements
+-   Build on the L1 Mainnet or Testnet.
+-   All projects must submit transactions to the L1.
+-  Using a sidechain such as [Xahau](https://xahau.network/) or the [XRPL EVM Sidechain](https://docs.xrplevm.org/) is allowed, but it may cost you a few points in the final scoring.
+
+#### **🚨 Make sure to submit everything before Sunday at 15h30 ! 🚨**
+
+---
