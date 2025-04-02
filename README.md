@@ -110,6 +110,7 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 - Mathis (XRPL Commons) *Technology*
 - Shane (Merkle META) *Technology and business*
 - Kenneth (Mercy Corps Ventures) *Business*
+- Jeanne (Cosyal) *Social Impact & Business*
 - Panos (Anodos) *Technology and business*
 - Nathan (Cypherlab / Lobster) *Technology*
 - Djason (M’Bongo) *Technology and business*
