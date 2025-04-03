@@ -11,7 +11,7 @@
 
 **Welcome to the on-site hackathon of Paris Blockchain Week 2025 by XRPL Commons !**
 
-**As part of this hackathon, you will need to choose one of the topics below and develop a project around it. Feel free to unleash your creativity and approach it in an original and meaningful way.**
+**As part of this hackathon, you must choose one of the topics below and develop a project around it. Feel free to unleash your creativity and approach it in an original and meaningful way.**
 
 ### Agentic Frameworks
 - AI-driven autonomous agents interoperating on XRPL
@@ -21,7 +21,7 @@
 
 ### Stablecoin & DeFi Tools for Businesses
 - Cross-border payment tools using stablecoins on XRPL
-- Solving for the counterparty trust problem
+- Solving the counterparty trust problem
 - DeFi applications (lending, staking, automated payments)
 - Automation tools
 - Interoperability solutions between different chains using stablecoins as an anchor
@@ -73,14 +73,14 @@ An overview of how it works, getting started, creating a wallet, and making your
 - A link to a video or screenshots showcasing your solution.
 
 #### XRPL Network Requirements
--   Build on the L1 Mainnet or Testnet.
--   All projects must submit transactions to the L1.
--  Using a sidechain such as [Xahau](https://xahau.network/) or the [XRPL EVM Sidechain](https://docs.xrplevm.org/) is allowed, but it may cost you a few points in the final scoring.
+- Build on the XRPL Testnet.
+- All projects must submit transactions to the L1.
+- Using a sidechain such as [Xahau](https://xahau.network/) or the [XRPL EVM Sidechain](https://docs.xrplevm.org/) is allowed, but it may cost you a few points in the final scoring.
 
 <div align="center">
 </br>
 
-#### **🚨 Make sure to submit everything before Sunday at 15h30 ! 🚨**
+#### **🚨 Make sure to submit everything before Sunday at 15h30! 🚨**
 
 ![](./img/2.png)
 
@@ -97,7 +97,7 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 - **Idea** (the originality of the concept)
 - **Implementation** (the quality of the code and robustness of the architecture)
 - **Demo** (how clearly you present your solution to the user)
-- **Potential** (the total value transacted on-chain, the business model, and the potential reach)
+- **Potential** (the total value transacted on-chain, the business model, and the potential to turn your project into a product)
 
 ---
 ### Mentors 
@@ -130,7 +130,7 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 |--|--|--|
 | **Official Docs** | Main reference for everything XRPL | [XRPL Documentation](https://xrpl.org) |
 | **Learn the Basics** | Interactive platform to explore XRPL fundamentals | [XRPL Learn Platform](https://learn.xrpl.org) |
-| **XRPL Explorer** | Explore accounts, transactions, and ledgers on XRPL | [XRPL Explorer](https://livenet.xrpl.org) |
+| **XRPL Explorer** | Explore accounts, transactions, and ledgers on XRPL | [XRPL Explorer](https://livenet.xrpl.org)  [XRPLWin Explorer](https://xrplwin.com/)|
 | **Step-by-Step Tutorials** | Guided coding activities for hands-on learning | [XRPL Commons Tutorials](https://docs.xrpl-commons.org) |
 | **YouTube Tutorials** | Video guides for beginners and developers | [XRPL Commons YouTube Channel](https://www.youtube.com/channel/UCwlHiotQWku7DztcnH3zrzw) |
 | **Hackathon Ideas** | Project suggestions to get inspired for hackathons | [XRPL Hackathon Idea List](https://github.com/XRPL-Commons/community-ideas/blob/main/hackathon/index.md) |
