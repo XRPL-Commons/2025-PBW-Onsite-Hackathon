@@ -136,6 +136,6 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 | **Official Docs** | Main reference for everything XRPL | [XRPL Documentation](https://xrpl.org) |
 | **Learn the Basics** | Interactive platform to explore XRPL fundamentals | [XRPL Learn Platform](https://learn.xrpl.org) |
 | **XRPL Explorer** | Explore accounts, transactions, and ledgers on XRPL | [XRPL Explorer](https://livenet.xrpl.org)  [XRPLWin Explorer](https://xrplwin.com/)|
-| **Wallets & Escrows** | Practical tutorials on creating wallets, trustlines, escrows | [XRPL Wallet & Escrow Guide](https://github.com/XRPL-Commons/xrpl-commons-tutorials) |
+| **Wallets, Escrows, Tickets** | Practical tutorials on creating wallets, trustlines, escrows and tickets | [Florian Uzio Guides](https://github.com/florent-uzio/xrpl-commons-tutorials) |
 
 ![](./img/5.png)
