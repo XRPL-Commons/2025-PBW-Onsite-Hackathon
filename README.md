@@ -131,7 +131,7 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 | **Hackathon Ideas** | Project suggestions to get inspired for hackathons | [XRPL Hackathon Idea List](https://github.com/XRPL-Commons/community-ideas/blob/main/hackathon/index.md) |
 | **Quick Start Activities** | Guided coding activities for hands-on learning | [XRPL Commons Tutorials](https://docs.xrpl-commons.org) |
 | **Transaction Quick Reference** | All XRPL transactions and payloads | [XRPL transaction types](https://xrpl.org/docs/references/protocol/transactions/types) |
-| **Get XRP delivered to your test account** | Faucets to get XRP | [XRP Faucets]([https://xrpl.org/docs/references/protocol/transactions/types](https://xrpl.org/resources/dev-tools/xrp-faucets)) |
+| **Faucets to get XRP** | Fund test wallets with XRP | [XRP Faucets](https://xrpl.org/resources/dev-tools/xrp-faucets) |
 | **YouTube Tutorials** | Video guides for beginners and developers | [XRPL Commons YouTube Channel](https://www.youtube.com/channel/UCwlHiotQWku7DztcnH3zrzw) |
 | **Official Docs** | Main reference for everything XRPL | [XRPL Documentation](https://xrpl.org) |
 | **Learn the Basics** | Interactive platform to explore XRPL fundamentals | [XRPL Learn Platform](https://learn.xrpl.org) |
