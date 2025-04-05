@@ -11,7 +11,9 @@
 
 **Welcome to the on-site hackathon of Paris Blockchain Week 2025 by XRPL Commons !**
 
-**As part of this hackathon, you must choose one of the topics below and develop a project around it. Feel free to unleash your creativity and approach it in an original and meaningful way.**
+**As part of this hackathon, you can choose one of the topics below and develop a project around it. Feel free to unleash your creativity and approach it in an original and meaningful way.**
+
+**You’re not required to stick to these topics if you have an original idea!**
 
 ### Agentic Frameworks
 - AI-driven autonomous agents interoperating on XRPL
@@ -51,6 +53,7 @@ An overview of how it works, getting started, creating a wallet, and making your
 ### Workshop 2 *(Saturday 14h30 - 15h20)*
 
 > Overview of how an AI agent works.
+
 > Ask me anything about XRPL and overall support.
 
 ---
@@ -122,10 +125,24 @@ Project evaluation will be based on four main criteria, each carrying equal weig
 
 </div>
 
-
 ---
 ### Documentation and essential links
 
+#### Slides
+
+[PBW Hackathon Opening eremony](./pdf/(EXT)%2020250405%20PBW%20Opening%20Ceremony.pdf)
+
+[PBW Hackathon Workshop 1](./pdf/(EXT)%20PBW%20Workshop%201%20(onside).pdf)
+
+[PBW Hackathon Workshop 2](./pdf/(EXT)%20PBW%20Workshop%202%20(onside).pdf)
+
+#### Wifi password
+
+Network name: `HACKATHON_PBW`
+
+Password: `hacktheblock2025`
+
+#### Documentation
 |  |  |  |
 |--|--|--|
 | **Hackathon Ideas** | Project suggestions to get inspired for hackathons | [XRPL Hackathon Idea List](https://github.com/XRPL-Commons/community-ideas/blob/main/hackathon/index.md) |
