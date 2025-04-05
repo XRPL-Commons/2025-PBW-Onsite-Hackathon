@@ -148,10 +148,12 @@ Password: `hacktheblock2025`
 | **Hackathon Ideas** | Project suggestions to get inspired for hackathons | [XRPL Hackathon Idea List](https://github.com/XRPL-Commons/community-ideas/blob/main/hackathon/index.md) |
 | **Quick Start Activities** | Guided coding activities for hands-on learning | [XRPL Commons Tutorials](https://docs.xrpl-commons.org) |
 | **Transaction Quick Reference** | All XRPL transactions and payloads | [XRPL transaction types](https://xrpl.org/docs/references/protocol/transactions/types) |
-| **Faucets to get XRP** | Fund test wallets with XRP | [XRP Faucets](https://xrpl.org/resources/dev-tools/xrp-faucets) |
+| **Faucets to get XRP and RLUSD** | Fund test wallets with XRP and RLUSD | [XRP Faucets](https://xrpl.org/resources/dev-tools/xrp-faucets) [RLUSD Faucets](https://tryrlusd.com/) |
 | **YouTube Tutorials** | Video guides for beginners and developers | [XRPL Commons YouTube Channel](https://www.youtube.com/channel/UCwlHiotQWku7DztcnH3zrzw) |
 | **Official Docs** | Main reference for everything XRPL | [XRPL Documentation](https://xrpl.org) |
 | **Learn the Basics** | Interactive platform to explore XRPL fundamentals | [XRPL Learn Platform](https://learn.xrpl.org) |
+| **Official Docs** | Main reference for everything XRPL | [XRPL Documentation](https://xrpl.org) |
+| **Ripple USD Stablecoin Docs** | Reference and documentation of Ripple USD Stablecoin | [Ripple USD Stablecoin Docs](https://docs.ripple.com/stablecoin/) |
 | **XRPL Explorer** | Explore accounts, transactions, and ledgers on XRPL | [XRPL Explorer](https://livenet.xrpl.org)  [XRPLWin Explorer](https://xrplwin.com/)|
 | **Wallets, Escrows, Tickets** | Practical tutorials on creating wallets, trustlines, escrows and tickets | [Florian Uzio Guides](https://github.com/florent-uzio/xrpl-commons-tutorials) |
 
