@@ -83,7 +83,7 @@ An overview of how it works, getting started, creating a wallet, and making your
 <div align="center">
 </br>
 
-#### **🚨 Make sure to submit everything before Sunday at 15h30! 🚨**
+#### **🚨 Make sure to submit everything before Sunday at 3:30 PM using [this link](https://app.bizthon.com/main/idea/add/67eb56a9db7b4be196caa18f?addIdea=true)! 🚨**
 
 ![](./img/2.png)
 
