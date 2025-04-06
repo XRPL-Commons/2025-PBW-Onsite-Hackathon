@@ -85,6 +85,8 @@ An overview of how it works, getting started, creating a wallet, and making your
 
 #### **🚨 Make sure to submit everything before Sunday at 3:30 PM using [this link](https://app.bizthon.com/main/idea/add/67eb56a9db7b4be196caa18f?addIdea=true)! 🚨**
 
+#### **You need to prepare a 5 minute pitch followed by a 2 minute Q&A session.**
+
 ![](./img/2.png)
 
 </div>
